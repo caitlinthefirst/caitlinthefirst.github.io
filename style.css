@@ -1,0 +1,10 @@
+html {
+    font-size: 18px;
+}
+
+/* Pagewide Rules */
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f3f5f5;
+    color: #4a4a4a;
+}
